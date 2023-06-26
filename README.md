@@ -12,3 +12,6 @@ wb = load_workbook("/Users/....../clean control cc.xlsx")
 
 num_test = 8
 num_criteria = 4
+
+#Licence
+MIT license.
